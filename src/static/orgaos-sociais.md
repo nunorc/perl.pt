@@ -23,7 +23,7 @@ A APPP é constituída por:
        * Vice-Presidente: José Neta
        * Relator: Tiago Quintela
 
-## Orgãos dirigentes 2011-2014:
+### Orgãos dirigentes 2011-2014:
 
    * **Direcção**
        * Presidente: Nuno Carvalho
@@ -38,7 +38,7 @@ A APPP é constituída por:
        * Vice-Presidente: José Pinheiro Neta
        * Relator: Bruno Martins
 
-## Orgãos dirigentes 2008-2010:
+### Orgãos dirigentes 2008-2010:
 
    * **Assembleia Geral**
        * José Castro
