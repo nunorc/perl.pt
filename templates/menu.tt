@@ -1,0 +1,40 @@
+<div class="row">
+  <div class="col-md-2">
+    <a href="[% base_uri %]static/estatutos.html"><div class="block2"><span class="block2-text">Estatutos</span></div></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2">
+    <a href="[% base_uri %]static/formacao.html"><div class="block2"><span class="block2-text">Formação</span></div></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2">
+    <a href="[% base_uri %]static/contactos.html"><div class="block2"><span class="block2-text">Contactos</span></div></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2">
+    <a href="[% base_uri %]static/faq.html"><div class="block2"><span class="block2-text">Perguntas<br>Frequentes</span></div></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2">
+    <a href="[% base_uri %]static/perl-code-sprint.html"><div class="block2"><span class="block2-text">Perl Code<br>Sprint</span></div></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2">
+    <a href="[% base_uri %]static/regulamento.html"><div class="block2"><span class="block2-text">Regulamento<br>Interno</span></div></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2">
+    <a href="[% base_uri %]static/orgaos-sociais.html"><div class="block2"><span class="block2-text">Orgãos<br>Sociais</span></div></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2">
+    <a href="[% base_uri %]static/arquivo.html"><div class="block2"><span class="block2-text">Arquivo</span></div></a>
+  </div>
+</div>

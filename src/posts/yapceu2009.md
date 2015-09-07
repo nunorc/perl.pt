@@ -1,0 +1,6 @@
+
+# YAPC::EU::2009
+
+ 2009-08-10, por Nuno Carvalho <smash@cpan.org>
+
+Terminou a semana passada, mais uma edição de sucesso da versão europeia da Yet Another Perl Conference. Para os mais distraídos o evento voltou a Portugal este ano, sendo que desta vez foi realizado em Lisboa. Mais uma vez o tempo quente e os paladares tradicionais cativaram a atenção da comunidade, como comprovaram os cerca de 330 partipantes oriundos de 33 países distintos.<br /><br />A edição deste ano contou com uma série de apresentações interessantes e de elevada qualidade, nas mais varias áreas, que foram capazes de cativar a atenção tanto dos utilizadores mais experientes como dos novatos por estas andanças. Muitas discussões saudáveis pelos corredores e as BOFs que se foram realizando contaram com o entusiamo dos vários participantes. A edição deste ano contou ainda com várias formações e workshops que abrangeram vastas áreas, desde os tópicos para iniciados até às novidades das mais recentes versões do Perl.<br /><br />Em suma, parabéns à&nbsp; organização, a todos os participantes, aos patrocinadores e a todas as entidades envolvidas pelo sucesso do evento e vemo-nos para o ano em Piza, Itália na edição de 2010.<br /> 

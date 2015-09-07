@@ -1,0 +1,13 @@
+<ul>
+  [% FOR year IN years %]
+    <li>[% year %]
+      <ul>
+        [% FOR month IN months %]
+          [% IF archive.year.month %]
+            <li>[% month %]</li>
+          [% END %]
+        [% END %]
+      </ul>
+    </li>
+  [% END %]
+</ul>

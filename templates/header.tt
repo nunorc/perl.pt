@@ -1,0 +1,9 @@
+
+<div class="row" style="margin-top: 30px; margin-bottom: 15px;">
+  <div class="col-md-12" style="padding-left: 0px;">
+    <a href="[% base_uri %]index.html">
+      <img src="[% base_uri %]imgs/logo.svg">
+    </a>
+  </div>
+</div>
+

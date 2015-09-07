@@ -1,0 +1,16 @@
+
+  <div class="row" style="margin-left: -5px; margin-right: -15px;">
+    <div class="col-md-4" style="padding-left: 5px; padding-right: 5px;"><a href="static/estatutos.html"><div class="block"><span class="block-text">Estatutos</span></div></a></div>
+    <div class="col-md-4" style="padding-left: 5px; padding-right: 5px;"><a href="static/formacao.html"><div class="block"><span class="block-text">Formação</span></div></a></div>
+    <div class="col-md-4" style="padding-left: 5px; padding-right: 5px;"><a href="static/contactos.html"><div class="block"><span class="block-text">Contactos</span></div></a></div>
+  </div>
+  <div class="row" style="margin-left: -5px; margin-right: -15px;">
+    <div class="col-md-4" style="padding-left: 5px; padding-right: 5px;"><a href="static/faq.html"><div class="block"><span class="block-text">Perguntas<br>Frequentes</span></div></a></div>
+    <div class="col-md-4" style="padding-left: 5px; padding-right: 5px;"><a href="static/perl-code-sprint.html"><div class="block"><span class="block-text">Perl<br>Code<br> Sprint</span></div></a></div>
+    <div class="col-md-4" style="padding-left: 5px; padding-right: 5px;"><a href="static/regulamento.html"><div class="block"><span class="block-text">Regulamento<br>Interno</span></div></a></div>
+  </div>
+  <div class="row" style="margin-left: -5px; margin-right: -15px;">
+    <div class="col-md-4" style="padding-left: 5px; padding-right: 5px;"><a href="static/orgaos-sociais.html"><div class="block" style="margin-bottom: 10px;"><span class="block-text">Orgãos<br>Sociais</span></div></a></div>
+    <div class="col-md-4" style="padding-left: 5px; padding-right: 5px;"><a href="static/arquivo.html"><div class="block" style="margin-bottom: 10px;"><span class="block-text">Arquivo</span></div></a></div>
+    <div class="col-md-4" style="padding-left: 5px; padding-right: 5px;"><a href=""><div class="block" style="margin-bottom: 10px;"><span class="block-text"></span></div></a></div>
+  </div>

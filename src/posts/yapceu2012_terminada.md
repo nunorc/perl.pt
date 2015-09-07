@@ -1,0 +1,8 @@
+
+# YAPC::EU 2012 - Dia 3
+
+ 2012-08-23, por Alberto SimÃµes <ambs@cpan.org>
+
+A YAPC::EU::2012, em Frankfurt, chegou ao fim. Foi uma edição bastante quente, não só pelo calor insuportável, que levou ao consumo excessivo de água (que na Alemanha é quase unicamente com gás), à transpiração, e à pouca atenção nas apresentações. Felizmente a temperatura foi descendo, e no último dia já se conseguia estar mais fresco.<br /><br />Em termos de apresentações do terceiro dia (já que sobre os outros dias já se falou), foi interessante a proposta apresentada pelo Stevan Little para a inclusão de um sistema de objetos no <i>core</i> do Perl, que me pareceu bastante madura. Tivemos também várias apresentações relacionadas com a comunidade. Primeiro o <span title="">Philippe Bruhat apresentou uma visita guiada a várias das fundações e organizações existentes dedicadas aos Perl (infelizmente não chegou a mencionar a APPP), seguida de uma apresentação do Mark Keating sobre marketing do Perl, e outra da Karen sobre o estado da The Perl Foundation. As sessões de apresentações terminaram com uma&nbsp;</span><i>keynote</i> animada e enérgica do Matt Trout. O dia terminou com uma sessão de <i>Lightning Talks.</i> É evidente que outras apresentações foram feitas, mas estas correspondem à seleção daquelas a que assisti.<br /> 
+
+<div style="margin-top:10px;height:15px" class="zemanta-pixie"><a class="zemanta-pixie-a" href="http://www.zemanta.com/?px" title="Enhanced by Zemanta"><img style="border:none;float:right" class="zemanta-pixie-img" src="http://img.zemanta.com/zemified_e.png?x-id=2b97dac7-9a8d-4c06-8c1b-75f0fe030556" alt="Enhanced by Zemanta" /></a></div>

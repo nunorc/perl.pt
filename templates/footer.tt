@@ -1,0 +1,10 @@
+<div class="row" style="margin-top: 20px; margin-bottom: 20px; font-size: 12px;">
+  <div class="col-md-7" style="padding-left: 0px;">
+    <span style="color: #808080;">&copy; APPP 2015. Todos os direitos reservados.</span>
+    <br>
+    <span style="color: #b3b3b3">Powered by <a href="http://perl6.org">Perl 6</a>.</span>
+  </div>
+  <div class="col-md-5">
+    <span>R F L T</span>
+  </div>
+</div>

@@ -1,0 +1,14 @@
+[% FOR post IN latest %]
+  <div class="row">
+    <div class="col-md-2">
+      img
+    </div>
+    <div class="col-md-10">
+      <span class="title"><a href="posts/[% post.basename %].html">[% post.title %]</a></span><br>
+      <span class="by">[% post.when %], por [% post.who %]</span><br>
+
+      <p style="margin-top: 20px; margin-bottom: 20px;">[% post.stub %] ...</p>
+    </div>
+    <div class="row" style="padding: 0px; margin: 10px;"><div class="col-md-12" style="padding: 0px; margin: 0px;"><hr style="padding: 0px; margin: 0px;"></div></div>
+  </div>
+[% END %]

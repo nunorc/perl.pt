@@ -1,0 +1,6 @@
+
+# Braga.pm
+
+ 2011-02-24, por Alberto SimÃµes <ambs@cpan.org>
+
+<b><font style="font-size: 1.25em;">Localização:</font></b><br /><br />O grupo <i>braga.pm</i>, tem sede virtual no Departamento de Informática, da Universidade do Minho. Afinal, a maior parte, senão todos, os <i>Perleiros</i> de Braga têm origem nesta ilustre universidade.<br /><br /><font style="font-size: 1.25em;"><b>Recursos:</b></font><br /><br />O número reduzido de membros faz com que não haja grande massa crítica. Daí que os membros são convidados a subscreverem-se na lista de discussão de <a href="http://lisbon.pm.org/">Lisboa</a>. Em todo o caso, o grupo mantém uma lista de discussão, especialmente dedicada para anúncios locais de reuniões ou apresentações.<br /><br /><b><font style="font-size: 1.25em;">Membros:</font></b><br /><br /><ul><li>Alberto Simões (Group Leader)</li><li>Nuno Carvalho</li><li>José Pedro Oliveira</li><li>José João Almeida</li><li>Magda Joana Silva</li><li>Luciano Rocha</li><li>Luís Miguel Braga</li><li>José Marques</li><li>André Santos</li><li>Fernando Gomes</li><li>Nuno Fernandes</li><li>Ricardo Oliveira</li><li>Paulo Silva<br /></li><li>...</li></ul><b><font style="font-size: 1.25em;">Lista de Discussão:<br /></font></b><br />Existe uma lista de discussão aberta. braga.pm em perl.pt. Para subcrever, enviar para braga.pm-subscribe em perl.pt<br /> 
