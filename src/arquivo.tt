@@ -12,7 +12,7 @@
       [% INCLUDE '../templates/header' %]
       <div class="row">
         <div class="col-md-2 splash">[% INCLUDE '../templates/menu' %]</div>
-        <div class="col-md-10 latest">[% arch_html %]</div>
+        <div class="col-md-10 latest"><h1>Arquivo</h1>[% arch_html %]</div>
       </div>
       [% INCLUDE '../templates/footer' %]
     </div>
