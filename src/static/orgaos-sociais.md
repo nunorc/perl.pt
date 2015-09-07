@@ -1,5 +1,5 @@
 
-# Ogãos Sociais
+# Orgãos Sociais
 
 A APPP (Associação Portuguesa de Programadores Perl) tem como objectivo
 promover a realização de eventos relacionados com Perl em Portugal, entre os
