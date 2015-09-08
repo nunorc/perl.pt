@@ -1,3 +1,213 @@
+/* ##################################*/
+/* #  perl.pt custom style, 2015    #*/
+/* #  "rock on ma'brother" edition  #*/
+/* ##################################*/
+
+/* CUSTOM FONT/SYMBOL */
+@font-face {
+	font-family: 'extrafont';
+	src:url('../fonts/extrafont.eot?cxzgv6');
+	src:url('../fonts/extrafont.eot?#iefixcxzgv6') format('embedded-opentype'),
+		url('../fonts/extrafont.ttf?cxzgv6') format('truetype'),
+		url('../fonts/extrafont.woff?cxzgv6') format('woff'),
+		url('../fonts/extrafont.svg?cxzgv6#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'extrafont';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.icon-facebook2:before {
+	content: "\e600";
+}
+.icon-twitter2:before {
+	content: "\e601";
+}
+.icon-feed3:before {
+	content: "\e602";
+}
+.icon-linkedin:before {
+	content: "\e603";
+}
+/* ## */
+/* WEIRD MAMBO (just because...) */
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+hr {
+  margin: 15px 0 17px 0;
+  padding: 0;
+  border: 1px dotted #ddd;
+}
+.perl-divider {
+  margin-left: 0;
+  margin-right: 0;
+}
+/* ## */
+/* HEADER MAMBO */
+.perl-header {
+  margin-top: 30px; 
+  margin-bottom: 15px;
+}
+a.perl-logo, .perl-logo:visited {
+  display: block;
+  background: transparent url('../imgs/logo.svg') center no-repeat;
+  background-size: contain;
+  width: 436px;
+  height: 85px;
+  -webkit-transition: all, ease-out, 0.4s;
+     -moz-transition: all, ease-out, 0.4s;
+       -o-transition: all, ease-out, 0.4s;
+          transition: all, ease-out, 0.4s;
+}
+a.perl-logo:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+/* ## */
+/* MAIN MENU MAMBO */
+.perl-main-menu {
+  margin-left: -10px;
+  margin-right: -10px;
+  padding-top: 10px;
+}
+.perl-main-menu-bg {
+  background-color: #f8f8f8;
+}
+.perl-main-menu-op {
+  padding-left: 5px; 
+  padding-right: 5px;
+  margin-bottom: 10px;
+}
+.perl-main-menu-op a,
+.perl-main-menu-op a:visited {
+  display: block;
+  text-decoration: none;
+  height: 205px;
+  min-width: 160px;
+  background-color: #e6e6e6;
+  color: #555;
+  text-align: right;
+  font-size: 16px;
+  text-transform: uppercase;
+  -webkit-transition: all, ease-out, 0.4s;
+     -moz-transition: all, ease-out, 0.4s;
+       -o-transition: all, ease-out, 0.4s;
+          transition: all, ease-out, 0.4s;
+}
+.perl-main-menu-op a:hover {
+  text-decoration: none;
+  background-color: #D5D5D5; 
+  color: #222;
+}
+.perl-main-menu-op a span {  /* magic */
+  position: absolute;
+  right: 25px;
+  bottom: 15px;
+}
+@media (max-width: 1199px) { 
+  .perl-main-menu-op a,
+  .perl-main-menu-op a:visited {
+    height: 165px;
+  }
+}
+/* ## */
+/* NEWS MAMBO */
+.perl-news {
+  line-height: 110%;
+  margin-left: -5px;
+  background-color: #FFF;
+  border: 1px dotted #DDD;
+  overflow: auto;
+  height: 655px;
+  padding-top: 15px;
+  -webkit-transition: all, ease-out, 0.4s;
+     -moz-transition: all, ease-out, 0.4s;
+       -o-transition: all, ease-out, 0.4s;
+          transition: all, ease-out, 0.4s;
+}
+@media (max-width: 1199px) { 
+  .perl-news {
+    height: 535px;
+  }
+}
+a.perl-news-title,
+a.perl-news-title:visited {
+  display: block;
+  color: #666;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 16px;
+  -webkit-transition: color, ease-out, 0.4s;
+     -moz-transition: color, ease-out, 0.4s;
+       -o-transition: color, ease-out, 0.4s;
+          transition: color, ease-out, 0.4s;
+  
+}
+a.perl-news-title:hover {
+  text-decoration: none;
+  color: #222;
+}
+.perl-news-editor {
+  color: #AAA;
+  font-size: 10px;
+  margin-bottom: 15px;
+}
+.perl-news-body {
+  line-height: 120%;
+  font-size: 12px;
+  color: #555;
+}
+/* ## */
+/* FOOTER MAMBO */
+.perl-footer {
+  margin-top: 20px; 
+  margin-bottom: 20px; 
+}
+.perl-footer-credits {
+  font-size: 12px;
+  color: #999;
+  line-height: 120%;
+}
+.perl-footer-links {
+  text-align: right;
+  font-size: 20px;
+  line-height: 100%;
+}
+.perl-footer-links a, 
+.perl-footer-links a:visited {
+  text-decoration: none;
+  color: #999;
+  -webkit-transition: all, ease-out, 0.4s;
+     -moz-transition: all, ease-out, 0.4s;
+       -o-transition: all, ease-out, 0.4s;
+          transition: all, ease-out, 0.4s;
+} 
+.perl-footer-links a:hover {
+  text-decoration: none;
+  color: #333;
+}
+
+
+
+
+
+
+
+/* END OF HOUSAH's STUFF */
+/*  -- OLD MAMBO -- */
 
 .header {
   margin: 20px 0px;
