@@ -1,8 +1,8 @@
 
 # Estatutos
 
-## CAPÍTULO I
-## Princípios Gerais
+### CAPÍTULO I
+### Princípios Gerais
 
 #### Artigo 1.º
 #### (Natureza e Sede)
@@ -29,8 +29,8 @@ Editar revistas, jornais ou outros documentos de interesse relevante;
 Organizar encontros, colóquios, conferências e seminários;
 Promover o intercâmbio e cooperação com associados e organismos nacionais e estrangeiros que prossigam os mesmos objectivos (como sejam a The Perl Foundation).
 
-## CAPÍTULO II
-## Dos Sócios
+### CAPÍTULO II
+### Dos Sócios
 
 #### Artigo 4.º
 #### (Sócios)
@@ -51,8 +51,8 @@ Cumprir as disposições estatutárias da Associação, bem como respeitar as de
 Desempenhar os cargos para que forem eleitos;
 Zelar pelo património da Associação, bem como pelo seu bom nome e engrandecimento.
 
-## CAPÍTULO III
-## Dos Órgãos
+### CAPÍTULO III
+### Dos Órgãos
 
 #### Artigo 6.º
 #### (Órgãos)
@@ -101,8 +101,8 @@ Compete ao Conselho Fiscal:
 Elaborar parecer anual sobre o relatório e contas apresentadas pela Direcção;
 Solicitar à Direcção todas as informações consideradas úteis a um normal funcionamento.
 
-## CAPÍTULO IV
-## Bens
+### CAPÍTULO IV
+### Bens
 
 #### Artigo 10.º
 #### (Receitas)
