@@ -5,7 +5,7 @@
           Powered by <a href="http://perl6.org">Perl 6</a>.
         </div>
         <div class="col-md-4 perl-footer-links">
-          <a href="#" title="Feed"><span class="icon-feed3"></span></a> 
+          <a href="[% base_uri %]rss.xml" title="Feed"><span class="icon-feed3"></span></a>
           <a href="https://www.facebook.com/group.php?gid=102535819783075" title="Facebook"><span class="icon-facebook2"></span></a>
           <a href="http://www.twitter.com/perl_pt" title="Twitter"><span class="icon-twitter2"></span></a>
           <a href="http://www.linkedin.com/groups?home=&gid=39759&trk=anet_ug_hm" title="Linkedin"><span class="icon-linkedin"></span></a>
