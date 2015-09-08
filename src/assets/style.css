@@ -6,11 +6,11 @@
 /* CUSTOM FONT/SYMBOL */
 @font-face {
 	font-family: 'extrafont';
-	src:url('../fonts/extrafont.eot?cxzgv6');
-	src:url('../fonts/extrafont.eot?#iefixcxzgv6') format('embedded-opentype'),
-		url('../fonts/extrafont.ttf?cxzgv6') format('truetype'),
-		url('../fonts/extrafont.woff?cxzgv6') format('woff'),
-		url('../fonts/extrafont.svg?cxzgv6#icomoon') format('svg');
+	src:url('../assets/extrafont.eot?cxzgv6');
+	src:url('../assets/extrafont.eot?#iefixcxzgv6') format('embedded-opentype'),
+		url('../assets/extrafont.ttf?cxzgv6') format('truetype'),
+		url('../assets/extrafont.woff?cxzgv6') format('woff'),
+		url('../assets/extrafont.svg?cxzgv6#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -63,7 +63,7 @@ hr {
 }
 a.perl-logo, .perl-logo:visited {
   display: block;
-  background: transparent url('../imgs/logo.svg') center no-repeat;
+  background: transparent url('../assets/logo.svg') center no-repeat;
   background-size: contain;
   width: 436px;
   height: 85px;
