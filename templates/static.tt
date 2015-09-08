@@ -18,10 +18,10 @@
 
       <!-- divider -->
       <div class="row perl-divider">
-        <div class="col-md-3 perl-main-menu-bg">
+        <div class="col-md-2 col-lg-2 perl-main-menu-bg">
           [% INCLUDE '../templates/menu' %]
         </div>
-        <div class="col-md-9">
+        <div class="col-md-9 col-lg-10">
           [% content %]
         </div>
       </div>

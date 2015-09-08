@@ -199,93 +199,44 @@ a.perl-news-title:hover {
   text-decoration: none;
   color: #333;
 }
-
-
-
-
-
-
-
-/* END OF HOUSAH's STUFF */
-/*  -- OLD MAMBO -- */
-
-.header {
-  margin: 20px 0px;
+/* ## */
+/* SUB MENU CONTENT PAGES */
+.perl-sub-menu {
+  margin-left: -11px;
+  margin-right: -11px;
+  padding-top: 6px;
 }
-
-.splash {
+.perl-sub-menu-bg {
   background-color: #f8f8f8;
 }
-
-.latest {
-  border: 1px solid #f8f8f8;
+.perl-sub-menu-op {
+  padding-left: 2px; 
+  padding-right: 2px;
+  margin-bottom: 6px;
 }
-
-.block {
-  height: 210px;
-  width: 100%;
-  min-width: 160px;
-  background-color: #e6e6e6;
-  margin-top: 10px;
-  margin-left: -5px;
-}
-
-.block-text {
-  font-size: 16px;
-  text-transform: uppercase;
-  position: absolute;
-  bottom: 0;
-  text-align: right;
-  margin: 10px;
-  width: 84%;
-}
-
-.block2 {
+.perl-sub-menu-op a,
+.perl-sub-menu-op a:visited {
+  display: block;
+  text-decoration: none;
   height: 60px;
-  width: 100%;
   min-width: 160px;
   background-color: #e6e6e6;
-  margin-top: 10px;
-  margin-left: -5px;
-}
-
-.block2-text {
-  font-size: 13px;
-  text-transform: uppercase;
-  position: absolute;
-  bottom: 0;
+  color: #555;
   text-align: right;
-  margin: 10px;
-  width: 84%;
-}
-
-
-.footer {
-  margin: 20px 0px;
-}
-
-@media (max-width: 1199px) { 
- .block {
-   height: 171px;
- }
-}
-
-.title {
-  font-size: 16px;
+  font-size: 14px;
   text-transform: uppercase;
+  -webkit-transition: all, ease-out, 0.4s;
+     -moz-transition: all, ease-out, 0.4s;
+       -o-transition: all, ease-out, 0.4s;
+          transition: all, ease-out, 0.4s;
 }
-
-.by {
-  font-size: 10px;
-  color: #808080;
+.perl-sub-menu-op a:hover {
+  text-decoration: none;
+  background-color: #D5D5D5; 
+  color: #222;
 }
-
-a.link:hover {
-   background-color: #DDD;
-}
-a.link {
--webkit-transition: background-color, ease-out, 4s;
- -moz-transition:  background-color, ease-out, 4s; 
- -o-transition: background-color, ease-out, 4s;
-transition:  background-color, ease-out, 4s;   
+.perl-sub-menu-op a span {  /* magic */
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
 }

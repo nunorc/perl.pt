@@ -1,40 +1,41 @@
+
+<div class="row perl-sub-menu">
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/estatutos.html"><span>Estatutos</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/formacao.html"><span>Formação</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/contactos.html"><span>Contactos</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/faq.html"><span>Perguntas<br>Frequentes</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/perl-code-sprint.html"><span>Perl Code<br>Sprint</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/regulamento.html"><span>Regulamento<br>Interno</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/orgaos-sociais.html"><span>Orgãos<br>Sociais</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../arquivo.html"><span>Arquivo</span></a></div>
+</div>
+
+
+<!--
 <div class="row">
-  <div class="col-md-2">
-    <a href="[% base_uri %]static/estatutos.html"><div class="block2"><span class="block2-text">Estatutos</span></div></a>
+  <div class="col-md-12">
+    <a href="[% base_uri %]static/estatutos.html"><span>Estatutos</span></a>
+  </div>
+  <div class="col-md-12">
+    <a href="[% base_uri %]static/formacao.html"><span>Formação</span></a>
+  </div>
+  <div class="col-md-12">
+    <a href="[% base_uri %]static/contactos.html"><span>Contactos</span></a>
+  </div>
+  <div class="col-md-12">
+    <a href="[% base_uri %]static/faq.html"><span>Perguntas<br>Frequentes</span></a>
+  </div>
+  <div class="col-md-12">
+    <a href="[% base_uri %]static/perl-code-sprint.html"><span>Perl Code<br>Sprint</span></a>
+  </div>
+  <div class="col-md-12">
+    <a href="[% base_uri %]static/regulamento.html"><span>Regulamento<br>Interno</span></a>
+  </div>
+  <div class="col-md-12">
+    <a href="[% base_uri %]static/orgaos-sociais.html"><span>Orgãos<br>Sociais</span></a>
+  </div>
+  <div class="col-md-12">
+    <a href="[% base_uri %]arquivo.html"><span>Arquivo</span></a>
   </div>
 </div>
-<div class="row">
-  <div class="col-md-2">
-    <a href="[% base_uri %]static/formacao.html"><div class="block2"><span class="block2-text">Formação</span></div></a>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-2">
-    <a href="[% base_uri %]static/contactos.html"><div class="block2"><span class="block2-text">Contactos</span></div></a>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-2">
-    <a href="[% base_uri %]static/faq.html"><div class="block2"><span class="block2-text">Perguntas<br>Frequentes</span></div></a>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-2">
-    <a href="[% base_uri %]static/perl-code-sprint.html"><div class="block2"><span class="block2-text">Perl Code<br>Sprint</span></div></a>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-2">
-    <a href="[% base_uri %]static/regulamento.html"><div class="block2"><span class="block2-text">Regulamento<br>Interno</span></div></a>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-2">
-    <a href="[% base_uri %]static/orgaos-sociais.html"><div class="block2"><span class="block2-text">Orgãos<br>Sociais</span></div></a>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-2">
-    <a href="[% base_uri %]static/arquivo.html"><div class="block2"><span class="block2-text">Arquivo</span></div></a>
-  </div>
-</div>
+-->
