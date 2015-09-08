@@ -1,19 +1,33 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <link href="[% base_uri %]css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>perl.pt</title>
+    <!-- mambo -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!-- custom mambo -->
+    <link href="[% base_uri %]css/style.css" rel="stylesheet">
   </head>
   <body>
     <div class="container">
       [% INCLUDE '../templates/header' %]
-      <div class="row">
-        <div class="col-md-2 splash">[% INCLUDE '../templates/menu' %]</div>
-        <div class="col-md-10 latest">[% content %]</div>
+
+      <!-- divider -->
+      <div class="row perl-divider">
+        <div class="col-md-3 perl-main-menu-bg">
+          [% INCLUDE '../templates/menu' %]
+        </div>
+        <div class="col-md-9">
+          [% content %]
+        </div>
       </div>
+      <!-- divider -->
+      <hr>
+
       [% INCLUDE '../templates/footer' %]
     </div>
   </body>
