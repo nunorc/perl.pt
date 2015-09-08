@@ -6,6 +6,9 @@
       <div class="perl-news-editor">[% post.when %], por [% post.who %]</div>
       <div class="perl-news-body">[% post.stub %] ...</div>
     </div>
-    <!-- hruler --> <div class="col-md-12"><hr></div>
+    [% SET mycounter = post.counter %]
+    [% IF mycounter < 4 %]
+      <!-- hruler [% post.counter %] --> <div class="col-md-12"><hr></div>
+    [% END %]
   [% END %]
 </div>
