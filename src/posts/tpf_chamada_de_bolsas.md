@@ -1,7 +1,7 @@
 
 # TPF: Chamada de Bolsas
 
- 2007-12-28, por Alberto SimÃµes <ambs@cpan.org>
+ 2007-12-28, por Alberto Simões <ambs@cpan.org>
 
 A TPF publicou hoje mais uma chamada de propostas para bolsas:<br /><div class="asset-content">
 
