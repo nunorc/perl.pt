@@ -1,6 +1,6 @@
 
 # Perl Code Sprint - Dia 2
 
- 2012-05-18, por Alberto SimÃµes <ambs@cpan.org>
+ 2012-05-18, por Alberto Simões <ambs@cpan.org>
 
 <a href="http://perl.pt/assets_c/2012/03/perlcodesprint-thumb-150x145-34-thumb-150x145-35.png"><img alt="Thumbnail image for Thumbnail image for perlcodesprint.png" src="%%BASE_URI%%imgs/perlcodesprint-thumb-150x145-34-thumb-150x145-35-thumb-150x145-36.png" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" height="145" width="150" /></a> <div>O segundo dia de Perl Code Sprint terminou há menos de 10 minutos. Tivemos quatro submissões aceites, e uma quinta submissão que não chegou a ser submetida correctamente.<br /><br />Mas, ao contrário da primeira prova, em que as soluções só começaram a aparecer três horas depois do enunciado estar público, desta vez tivemos a primeira submissão 22 minutos depois do enunciado ter sido disponibilizado. É certo que o enunciado era bem mais simples, mas também é sinal que os participantes começam a estar mais propensos para o tipo de enunciados que preparamos.<br /><br />Tal como da última vez, na versão alargada deste post podem ler o enunciado original, bem como uma solução. Desta vez escolhemos a primeira que foi aceite, submetida por André Santos. Não sabemos se é a melhor, a mais bonita, a mais eficiente ou simplesmente a mais pequena. É, simplesmente, a que foi submetida primeiro por um participante.<br /></div>

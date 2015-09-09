@@ -1,7 +1,7 @@
 
 # Catalyst Days
 
- 2007-10-02, por Alberto SimÃµes <ambs@cpan.org>
+ 2007-10-02, por Alberto Simões <ambs@cpan.org>
 
  <p>Nos dias 2 e 3 de Novembro a Associação Portuguesa de Programadores Perl organiza um <a href="http://perl.pt/catalyst-days/">encontro/formação na  Framework Catalyst</a>  no Departamento de Informática da Universidade do Minho.</p>
 

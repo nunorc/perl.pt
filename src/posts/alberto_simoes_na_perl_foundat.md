@@ -1,7 +1,7 @@
 
 # Alberto Simões na Perl Foundation
 
- 2007-10-24, por Alberto SimÃµes <ambs@cpan.org>
+ 2007-10-24, por Alberto Simões <ambs@cpan.org>
 
  <a href="http://alfarrabio.di.uminho.pt/%7Ealbie/">Alberto Simões</a> foi eleito para o papel de <a href="http://www.perlfoundation.org/grants_committee_elects_a_new_chair">Grants Committee Chair</a> da <a href="http://www.perlfoundation.org/">Perl Foundation</a>.
 

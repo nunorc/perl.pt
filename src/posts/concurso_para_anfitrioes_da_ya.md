@@ -1,7 +1,7 @@
 
 # Concurso para Anfitriões da YAPC::EU::2008
 
- 2007-04-05, por Alberto SimÃµes <ambs@cpan.org>
+ 2007-04-05, por Alberto Simões <ambs@cpan.org>
 
  <p>Com as preparações da YAPC::Europe::2007 bem encaminhadas em Vienna, é altura para o Comité da YAPC::Europe considerar anfitriões adequados para a conferência de 2008. Qualquer grupo dedicado interessado em organizar a 
 YAPC::Europe::2008 deve enviar um aviso de interesse para 

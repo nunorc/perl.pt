@@ -1,7 +1,7 @@
 
 # Perl numa linha, e Ofuscação
 
- 2011-03-05, por Alberto SimÃµes <ambs@cpan.org>
+ 2011-03-05, por Alberto Simões <ambs@cpan.org>
 
 Todos sabemos que o <a class="zem_slink" href="http://www.perl.org/" title="Perl" rel="homepage">Perl</a> pode ser ilegível. Mas a verdade é que não podemos culpar a sintaxe do Perl por esta ilegibilidade, mas a imensa imaginação de quem o programa. Ora vejamos um exemplo (verídico). Considerem dois ficheiros, com listas de palavras (uma palavra por linha) e que querem imprimir as palavras que constam nos dois ficheiros, e pela ordem pela qual aparecem no primeiro ficheiro.<br /><br />Pediram-me ajuda para decifrar esta linha de código, que faz exactamente o pedido:<br /><br /><b>&nbsp; perl -ne 'print if ($seen{$_} .= @ARGV) =~ /10$/'&nbsp;&nbsp;
 lista1 lista2&nbsp; &gt; comuns<br /></b><br />Para quem ainda está a começar a usar Perl, lembro que a opção -n faz com que a linha de código apresentada seja executada para todas as linhas dos ficheiros indicados, e a opção -e indica qual a linha de código a executar.<br /><br />O primeiro problema para perceber este código é a existência de parêntesis, ou a inexistência de parêntesis. Passo a explicar, os parêntesis apresentados fazem com que nós, instintivamente, pensemos que a condição da expressão if é apenas o que está dentro dos ditos parêntesis. Mas não, já que a sintaxe do if pós-comando considera que todo o resto da linha é a condição.<br /><br />Estamos, pois, perante este código:<br /><br /><b>&nbsp; perl -ne 'print if (($seen{$_} .= @ARGV) =~ /10$/)'&nbsp;&nbsp;

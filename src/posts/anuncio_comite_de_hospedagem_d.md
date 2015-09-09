@@ -1,7 +1,7 @@
 
 # Anúncio: Comité de Hospedagem da YAPC::EU
 
- 2006-12-05, por Alberto SimÃµes <ambs@cpan.org>
+ 2006-12-05, por Alberto Simões <ambs@cpan.org>
 
  <p>A YEF tem o prazer de anunciar a criação do comité de hospedagem da YAPC (Yet Another Perl Conference). Este comité é responsável por seleccionar a cidade/país para hospedar a próxima YAPC::Europe das propostas disponíveis. Os membros são todos organizadores de YAPCs anteriores (ou actuais) pelo que há muita experiência relevante neste comité. Outras tarefas incluem aconselhar a direcção da YEF sobre a forma de patrocinar o arranque da organização na cidade escolhida.</p>
 

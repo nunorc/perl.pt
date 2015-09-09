@@ -1,7 +1,7 @@
 
 # Perl 5.14.0 Disponível
 
- 2011-05-15, por Alberto SimÃµes <ambs@cpan.org>
+ 2011-05-15, por Alberto Simões <ambs@cpan.org>
 
 <img alt="cpan.jpg" src="%%BASE_URI%%imgs/cpan.jpg" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" height="77" width="88" />Depois de três <i>release candidates</i> eis que a versão oficial do Perl 5.14.0 está disponível. Podem ir buscar o código fonte ao <a href="http://search.cpan.org/dist/perl-5.14.0/">cpan</a>, tentar a vossa sorte com o <a href="http://search.cpan.org/dist/App-perlbrew/">perlbrew</a>, ou&nbsp;aguardarem que seja disponibilizado no vosso formato de pacote predilecto.<br /><br />Num <i>post</i> anterior já foram listadas algumas das novidades, mas gostava de realçar as que mais me agradaram:<br /><ul><li>A base de dados <a class="zem_slink" href="http://en.wikipedia.org/wiki/Unicode" title="Unicode" rel="wikipedia">Unicode</a> foi actualizada para a versão 6.0, juntamente com correcções nas funcionalidades referentes a Unicode;</li><li>As substituições passam a suportar uma nova <i>flag</i>, denominada <i>/r</i> que permite realizar uma substituição a uma string, sem que esta seja alterada (mas o novo valor retornado). É especialmente útil para quem gosta de fazer substituições numa construção <i>map</i>.</li><li>É possível usar chavetas para definir o contexto de um pacote, com <i>package Foo { ... }</i>, o que aproxima a sintaxe a outras linguagens, como Java ou C#.</li></ul><br />Infelizmente a alteração que mais me agradou é experimental: todas as funções <i>built-in</i> que suportava arrays ou hashes, passam a suportar também referências para arrays ou hashes. Para quem usava <i>push @$array, $val</i> pode passar a utilizar directamente <i>push $array, $val</i>.<br />
 

@@ -1,7 +1,7 @@
 
 # Apresentação: Dancer
 
- 2011-02-24, por Alberto SimÃµes <ambs@cpan.org>
+ 2011-02-24, por Alberto Simões <ambs@cpan.org>
 
 <a href="http://perl.pt/presentation.gif"><img alt="presentation.gif" src="%%BASE_URI%%imgs/presentation-thumb-200x128-28.gif" class="mt-image-right" style="float: right; margin: 0pt 0pt 20px 20px;" height="128" width="200" /></a> <div>Na próxima Terça-Feira, dia 1 de Março, pelas 21h30, terá lugar na Velha-a-Branca, na cidade de <a class="zem_slink" href="http://maps.google.com/maps?ll=41.5441666667,-8.42194444444&amp;spn=0.1,0.1&amp;q=41.5441666667,-8.42194444444%20%28Braga%29&amp;t=h" title="Braga" rel="geolocation">Braga</a>, mais uma sessão das <i>Geek Nights</i>. Esta sessão terá uma apresentação (breve tutorial) sobre Dancer.<br /><br />O Dancer é uma <i>framework</i> <a href="http://www.perl.org/">Perl</a> para o desenvolvimento de aplicações <i>Web</i> com inspirações numa outra <i>framework</i> para a linguagem <i><a class="zem_slink" href="http://www.ruby-lang.org/" title="Ruby (programming language)" rel="homepage">Ruby</a></i>, de nome <i>Sinatra</i>.<br /><br />O tutorial irá focar sucintamente o que é o Dancer, como fazer o <i>bootstrap</i> a uma aplicação Dancer, e discutirá alguns detalhes sobre como o Dancer faz a gestão de pedidos HTTP.<br /></div>
 

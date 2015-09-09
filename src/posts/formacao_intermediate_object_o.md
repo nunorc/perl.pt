@@ -1,7 +1,7 @@
 
 # Formação Intermediate Object Oriented Perl, por Damian Conway
 
- 2007-07-11, por Alberto SimÃµes <ambs@cpan.org>
+ 2007-07-11, por Alberto Simões <ambs@cpan.org>
 
  <p>Damian Conway regressa a Portugal para ministrar mais uma formação, num evento novamente organizado pela <a href="http://www.log.pt/">log</a>.</p>
 

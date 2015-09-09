@@ -1,7 +1,7 @@
 
 # Novo lider da TPF para as Relações com a Comunidade
 
- 2007-07-10, por Alberto SimÃµes <ambs@cpan.org>
+ 2007-07-10, por Alberto Simões <ambs@cpan.org>
 
  <p style="font-style: italic">"Após quatro anos de um trabalho excelente (e muitas vezes mal agradecido) por trás dos pm.org, Dave Cross decidiu retirar-se para o descanso merecido. Obrigado, Dave!</p>
 <p style="font-style: italic">Para o substituir entrará em cena o José Castro, já bem conhecido de muitos na nossa comunidade como cog. O José irá liderar a equipa encarregue de ajudar a criação e nutrição de grupos de Perl Mongers à volta do globo.</p>

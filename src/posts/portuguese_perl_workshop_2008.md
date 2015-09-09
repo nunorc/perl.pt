@@ -1,7 +1,7 @@
 
 # Portuguese Perl Workshop 2008
 
- 2008-02-11, por Alberto SimÃµes <ambs@cpan.org>
+ 2008-02-11, por Alberto Simões <ambs@cpan.org>
 
 É verdade, vai mesmo acontecer!
 <br />

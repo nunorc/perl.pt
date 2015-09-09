@@ -1,7 +1,7 @@
 
 # YAPC::EU::2007 Website
 
- 2006-12-02, por Alberto SimÃµes <ambs@cpan.org>
+ 2006-12-02, por Alberto Simões <ambs@cpan.org>
 
  <p>Vienna.pm tem o prazer de anunciar o website para a YAPC::Europe 2007: <a href="http://vienna.yapceurope.org/">http://vienna.yapceurope.org/</a>.</p>
 
