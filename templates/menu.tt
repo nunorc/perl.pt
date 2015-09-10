@@ -1,14 +1,13 @@
 
 <div class="row perl-sub-menu">
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/orgaos-sociais.html" class="perl-sub-orgaos"><span>Orgãos<br>Sociais</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/estatutos.html" class="perl-sub-estatutos"><span>Estatutos</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/regulamento.html" class="perl-sub-regulamento"><span>Regulamento<br>Interno</span></a></div>
 
-  <div class="col-md-12 perl-sub-menu-op"><a href="../static/orgaos-sociais.html"><span>Orgãos<br>Sociais</span></a></div>
-  <div class="col-md-12 perl-sub-menu-op"><a href="../static/estatutos.html"><span>Estatutos</span></a></div>
-  <div class="col-md-12 perl-sub-menu-op"><a href="../static/regulamento.html"><span>Regulamento<br>Interno</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/faq.html" class="perl-sub-faq"><span>Perguntas<br>Frequentes</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/formacao.html" class="perl-sub-formacao"><span>Formação</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/perl-code-sprint.html" class="perl-sub-sprint"><span>Perl Code<br>Sprint</span></a></div>
 
-  <div class="col-md-12 perl-sub-menu-op"><a href="../static/faq.html"><span>Perguntas<br>Frequentes</span></a></div>
-  <div class="col-md-12 perl-sub-menu-op"><a href="../static/formacao.html"><span>Formação</span></a></div>
-  <div class="col-md-12 perl-sub-menu-op"><a href="../static/perl-code-sprint.html"><span>Perl Code<br>Sprint</span></a></div>
-
-  <div class="col-md-12 perl-sub-menu-op"><a href="../static/contactos.html"><span>Contactos</span></a></div>
-  <div class="col-md-12 perl-sub-menu-op"><a href="../arquivo.html"><span>Arquivo</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../static/contactos.html" class="perl-sub-contactos"><span>Contactos</span></a></div>
+  <div class="col-md-12 perl-sub-menu-op"><a href="../arquivo.html" class="perl-sub-arquivo"><span>Arquivo</span></a></div>
 </div>

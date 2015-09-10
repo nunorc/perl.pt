@@ -98,10 +98,11 @@ a.perl-logo:hover {
   height: 205px;
   min-width: 160px;
   background-color: #e6e6e6;
-  color: #555;
-  text-align: right;
-  font-size: 16px;
+  color: #777;
+  text-align: center;
+  font-size: 15px;
   text-transform: uppercase;
+  line-height: 120%;
   -webkit-transition: all, ease-out, 0.4s;
      -moz-transition: all, ease-out, 0.4s;
        -o-transition: all, ease-out, 0.4s;
@@ -114,7 +115,8 @@ a.perl-logo:hover {
 }
 .perl-main-menu-op a span {  /* magic */
   position: absolute;
-  right: 25px;
+  left: 0;
+  right: 0;
   bottom: 15px;
 }
 @media (max-width: 1199px) { 
@@ -221,7 +223,7 @@ a.perl-news-title:hover {
   height: 60px;
   min-width: 160px;
   background-color: #e6e6e6;
-  color: #555;
+  color: #444;
   text-align: right;
   font-size: 14px;
   text-transform: uppercase;
@@ -239,4 +241,64 @@ a.perl-news-title:hover {
   position: absolute;
   right: 20px;
   bottom: 10px;
+}
+/* ## */
+/* MAIN MENU ICONS */
+.perl-menu-orgaos {
+  background: url('../assets/orgaos.svg') center no-repeat;
+  background-size: contain;
+}
+.perl-menu-formacao {
+  background: url('../assets/formacao.svg') center no-repeat;
+  background-size: contain;
+}
+.perl-menu-faq {
+  background: url('../assets/faq.svg') center no-repeat;
+  background-size: contain;
+}
+.perl-menu-estatutos {
+  background: url('../assets/estatutos.svg') center no-repeat;
+  background-size: contain;
+}
+.perl-menu-sprint {
+  background: url('../assets/sprint.svg') center no-repeat;
+  background-size: contain;
+}
+.perl-menu-arquivo {
+  background: url('../assets/arquivo.svg') center no-repeat;
+  background-size: contain;
+}
+.perl-menu-regulamento {
+  background: url('../assets/regulamento.svg') center no-repeat;
+  background-size: contain;
+}
+.perl-menu-contactos {
+  background: url('../assets/contactos.svg') center no-repeat;
+  background-size: contain;
+}
+/* ## */
+/* SUB MENU ICONS */
+.perl-sub-orgaos {
+  background: url('../assets/orgaos_.svg') center no-repeat;
+}
+.perl-sub-formacao {
+  background: url('../assets/formacao_.svg') center no-repeat;
+}
+.perl-sub-faq {
+  background: url('../assets/faq_.svg') center no-repeat;
+}
+.perl-sub-estatutos {
+  background: url('../assets/estatutos_.svg') center no-repeat;
+}
+.perl-sub-sprint {
+  background: url('../assets/sprint_.svg') center no-repeat;
+}
+.perl-sub-arquivo {
+  background: url('../assets/arquivo_.svg') center no-repeat;
+}
+.perl-sub-regulamento {
+  background: url('../assets/regulamento_.svg') center no-repeat;
+}
+.perl-sub-contactos {
+  background: url('../assets/contactos_.svg') center no-repeat;
 }

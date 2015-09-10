@@ -1,15 +1,15 @@
   <!-- main menu -->
   <div class="row perl-main-menu">
 
-    <div class="col-md-4 perl-main-menu-op"><a href="static/orgaos-sociais.html"><span>Orgãos<br>Sociais</span></a></div>
-    <div class="col-md-4 perl-main-menu-op"><a href="static/estatutos.html"><span>Estatutos</span></a></div>
-    <div class="col-md-4 perl-main-menu-op"><a href="static/regulamento.html"><span>Regulamento<br>Interno</span></a></div>
+    <div class="col-md-4 perl-main-menu-op"><a href="static/orgaos-sociais.html" class="perl-menu-orgaos"><span>Orgãos<br>Sociais</span></a></div>
+    <div class="col-md-4 perl-main-menu-op"><a href="static/estatutos.html" class="perl-menu-estatutos"><span>Estatutos</span></a></div>
+    <div class="col-md-4 perl-main-menu-op"><a href="static/regulamento.html" class="perl-menu-regulamento"><span>Regulamento<br>Interno</span></a></div>
 
-    <div class="col-md-4 perl-main-menu-op"><a href="static/faq.html"><span>Perguntas<br>Frequentes</span></a></div>
-    <div class="col-md-4 perl-main-menu-op"><a href="static/formacao.html"><span>Formação</span></a></div>
-    <div class="col-md-4 perl-main-menu-op"><a href="static/perl-code-sprint.html"><span>Perl Code<br>Sprint</span></a></div>
+    <div class="col-md-4 perl-main-menu-op"><a href="static/faq.html" class="perl-menu-faq"><span>Perguntas<br>Frequentes</span></a></div>
+    <div class="col-md-4 perl-main-menu-op"><a href="static/formacao.html" class="perl-menu-formacao"><span>Formação</span></a></div>
+    <div class="col-md-4 perl-main-menu-op"><a href="static/perl-code-sprint.html" class="perl-menu-sprint"><span>Perl Code<br>Sprint</span></a></div>
 
-    <div class="col-md-4 perl-main-menu-op"><a href="static/contactos.html"><span>Contactos</span></a></div>
-    <div class="col-md-4 perl-main-menu-op"><a href="arquivo.html"><span>Arquivo</span></a></div>
+    <div class="col-md-4 perl-main-menu-op"><a href="static/contactos.html" class="perl-menu-contactos"><span>Contactos</span></a></div>
+    <div class="col-md-4 perl-main-menu-op"><a href="arquivo.html" class="perl-menu-arquivo"><span>Arquivo</span></a></div>
   </div>
   <!-- main menu -->
