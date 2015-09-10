@@ -9,7 +9,7 @@ Sources for the http://perl.pt website.
 * Add a new file in the posts directory: `src/posts`, the file name is used to
 create the URL for the new post.
 
-* Use Markdown notation to create the post.
+* Use Markdown notation ([basic introduction](https://help.github.com/articles/markdown-basics/)) to create the post.
 
 * Clone the header of other posts files so that everything gets generated correcly, something like:
 ```
