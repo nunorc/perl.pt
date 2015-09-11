@@ -3,8 +3,6 @@
 
  2015-09-11, por Alberto Simões <ambs@cpan.org>
 
-<img src="/imgs/camelia.png" alt="Camelia" title="Camelia"/>
-
 Com o Perl 6 a sair no Natal, e sim, desta vez no próximo
 Natal, começa a ser interessante olhar para esta linguagem
 que demorou 15 anos a ser preparada.
@@ -64,4 +62,5 @@ Usage:
   teste1.pl6 <a>
 ```
 
+<img src="/imgs/camelia.png" alt="Camelia" title="Camelia"/>
 
