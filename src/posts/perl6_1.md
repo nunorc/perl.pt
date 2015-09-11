@@ -21,18 +21,16 @@ de comando obrigatórios.
 Como exemplo, considere-se o seguinte programa que, dado um inteiro na linha 
 de comandos, imprime a sua respectiva tabuada.
 
-```
-sub MAIN(Int $a) {
-    if $a < 0 {
-        say "Argument should be positive";
-    }
-    else {
-        for (1..10) {
-            printf "%2d x %2d = %2d\n", $a, $_, $a*$_;
+    sub MAIN(Int $a) {
+        if $a < 0 {
+            say "Argument should be positive";
+        }
+        else {
+            for (1..10) {
+                printf "%2d x %2d = %2d\n", $a, $_, $a*$_;
+            }
         }
     }
-}
-```
 
 Deste bloco de código as diferenças notórias em relação
 ao Perl 5 são a assinatura da função `MAIN`, indicando que deve
@@ -42,25 +40,25 @@ programa de outras formas, introduzindo novas funcionalidades do
 Perl 6, mas vamos tentar apresentá-las aos poucos.
 
 Em relação à sua execução, temos este comportamento:
-```
-ambs$ perl6 teste1.pl6
-Usage:
-  teste1.pl6 <a>
-ambs$ perl6 teste1.pl6 3
- 3 x  1 =  3
- 3 x  2 =  6
- 3 x  3 =  9
- 3 x  4 = 12
- 3 x  5 = 15
- 3 x  6 = 18
- 3 x  7 = 21
- 3 x  8 = 24
- 3 x  9 = 27
- 3 x 10 = 30
-ambs$ perl6 teste1.pl6 foo
-Usage:
-  teste1.pl6 <a>
-```
+
+    ambs$ perl6 teste1.pl6
+    Usage:
+      teste1.pl6 <a>
+    ambs$ perl6 teste1.pl6 3
+     3 x  1 =  3
+     3 x  2 =  6
+     3 x  3 =  9
+     3 x  4 = 12
+     3 x  5 = 15
+     3 x  6 = 18
+     3 x  7 = 21
+     3 x  8 = 24
+     3 x  9 = 27
+     3 x 10 = 30
+    ambs$ perl6 teste1.pl6 foo
+    Usage:
+      teste1.pl6 <a>
+
 
 <img src="/imgs/camelia.png" alt="Camelia" title="Camelia"/>
 
