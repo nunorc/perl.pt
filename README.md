@@ -19,11 +19,13 @@ create the URL for the new post.
 yyyy-mm-dd, por Author <e-mail>
 <blank line>
 ```
-After this you can write whatever you want. HTML weaven in you post is algo ok.
+After this you can write whatever you want. HTML weaven in you post is also ok.
+
+* Do not forget to proofread your post. Use a spell checker.
 
 * Push the changes to the repository, open a pull request, ...
 
-* If you need an image in your post, commit the image to the `src/imgs` directory and use an absolute path for it, eg: `/imgs/myimage.png`.
+* If you need an image in your post, commit the image to the `src/imgs` directory and use an absolute path for it, eg: `/imgs/myimage.png`. If you want to use a generic icon, as the APPP Onion logo, the Camelia butterfly or other, check if there is one already on the `imgs` folder, and try to reuse it.
 
 * Wait for the next build of the site
 
