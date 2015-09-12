@@ -70,6 +70,7 @@ sub compile_static($src, $dst) {
 }
 
 sub do_end($dst) {
+  my @months = qw.janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro.;
   my @sorted = %posts.keys.sort: { %posts{$^b}<order> <=> %posts{$^a}<order> };
   my @latest;
   my @items;
@@ -94,7 +95,7 @@ sub do_end($dst) {
     $arch_html ~= '<ul>';
     for %archive{$year}.keys.sort({ $^a <= $^b }) -> $month {
       if %archive{$year}{$month} {
-        $arch_html ~= join('', ('<li>',$month,'<ul>'));
+        $arch_html ~= join('', ('<li>',@months[$month-1],'<ul>'));
 
         my @list := %archive{$year}{$month};
         for @list -> $post {
