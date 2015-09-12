@@ -92,7 +92,7 @@ sub do_end($dst) {
   for %archive.keys.sort.reverse -> $year {
     $arch_html ~= join('', ('<li>',$year));
     $arch_html ~= '<ul>';
-    for %archive{$year}.keys.sort.reverse -> $month {
+    for %archive{$year}.keys.sort({ $^a <= $^b }) -> $month {
       if %archive{$year}{$month} {
         $arch_html ~= join('', ('<li>',$month,'<ul>'));
 
