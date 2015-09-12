@@ -98,9 +98,7 @@ sub do_end($dst) {
 
         my @list := %archive{$year}{$month};
         for @list -> $post {
- #         my $curr = $post.shift;  # FIXME
-#          say $post.perl; say "---\n";
-          $arch_html ~= join('', ('<li><a href="posts/',$post<basename>,'.html">',$post<title>,'</a></li>'));
+           $arch_html ~= join('', ('<li><a href="posts/',$post<basename>,'.html">',$post<title>,'</a></li>'));
         }
         $arch_html ~= '</ul></li>';
       }
