@@ -60,5 +60,5 @@ Em relação à sua execução, temos este comportamento:
       teste1.pl6 <a>
 
 
-<img src="/imgs/camelia.png" alt="Camelia" title="Camelia"/>
+<img src="/imgs/camelia.png" style="display: none" alt="Camelia" title="Camelia"/>
 

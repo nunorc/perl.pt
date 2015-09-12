@@ -58,5 +58,5 @@ Segue-se o resultado de algumas invocações deste programa.
         7:  }
         8: }
 
-<img src="/imgs/camelia.png" alt="Camelia" title="Camelia"/>
+<img src="/imgs/camelia.png" style="display: none" alt="Camelia" title="Camelia"/>
 
