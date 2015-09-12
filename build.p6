@@ -30,8 +30,12 @@ $pekyll.build;
 
 sub compile_post($src, $dst) {
   my $post = qq:x/Markdown.pl $src/;
+  my $basename = IO::Path.new($src).basename.subst(/\.md$/, "");
+
   $post = $post.subst('%%BASE_URI%%', '../', :g);  # FIXME base_uri
-  my $output = $t6.process('static', :content($post), :base_uri('../')); # FIXME base_uri
+  my $output = $t6.process('static', 
+        :post(1),
+        :basename($basename), :content($post), :base_uri('../')); # FIXME base_uri
   spurt $dst, $output;
 
   # FIXME post "parsing"
@@ -55,14 +59,13 @@ sub compile_post($src, $dst) {
     $img = 'assets/noimage.jpg';
   }
 
-  my $basename = IO::Path.new($src).basename.subst(/\.md$/, "");
   my %post = ( title=>$title, who=>$who, when=>$when, order=>$order, basename=>$basename, stub=>@words[0..20].join(" "), raw=>$raw, html=>$output, img=>$img );
   %posts{$basename} = %post;
 }
 
 sub compile_static($src, $dst) {
   my $content = qq:x/Markdown.pl $src/;
-  my $output = $t6.process('static', :content($content), :base_uri<../>);
+  my $output = $t6.process('static', :post(0), :content($content), :base_uri<../>);
   spurt $dst, $output;
 }
 
