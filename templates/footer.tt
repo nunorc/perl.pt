@@ -2,7 +2,7 @@
       <div class="row perl-footer">
         <div class="col-md-8 perl-footer-credits">
           &copy; APPP 2015. Todos os direitos reservados.<br>
-          Powered by <a href="http://perl6.org">Perl 6</a>.
+          Powered by <a href="http://perl6.org">Perl 6</a> | Source: <a href="https://github.com/APPP/perl.pt">https://github.com/APPP/perl.pt</a>
         </div>
         <div class="col-md-4 perl-footer-links">
           <a href="[% base_uri %]rss.xml" title="Feed"><span class="icon-feed3"></span></a>
