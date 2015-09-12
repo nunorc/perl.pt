@@ -110,7 +110,6 @@ sub do_end($dst) {
   spurt "$dst/arquivo.html", $output;
 
   # build index
-  my @latest;
   # FIXME need counter for style
   for 0 .. (@latest.elems - 1) -> $i {
     @latest[$i]{'counter'} = $i;
