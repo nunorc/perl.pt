@@ -43,6 +43,7 @@ surrounded by a line of back-ticks. Instead, indent the code block using spaces.
   * [Template6](https://github.com/supernovus/template6/)
   * [Syndication](https://github.com/retupmoca/p6-syndication/)
   * [Pekyll](https://github.com/nunorc/p6-Pekyll)
+  * [XML](https://github.com/supernovus/exemel/)
 
 ### Build
 
