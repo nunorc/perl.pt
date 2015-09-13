@@ -14,7 +14,10 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.8.0/highlight.min.js"></script>
 
     <!-- custom mambo -->
-    <link href="[% base_uri %]assets/style.css" rel="stylesheet">
+    <link href="[% base_uri %]assets/style.css" rel="stylesheet"/>
+    <link rel="alternate" type="application/rss+xml" 
+            title="RSS Feed for Perl.pt" 
+          href="/rss.xml" />
   </head>
   <body>
     <script>hljs.initHighlightingOnLoad();</script>
