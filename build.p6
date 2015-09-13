@@ -91,7 +91,7 @@ sub do_end($dst) {
   # FIXME move this to a template when possible
   my $arch_html = '<ul>';
   for %archive.keys.sort.reverse -> $year {
-    $arch_html ~= join('', ('<li>',$year));
+    $arch_html ~= join('', ('<li>','<b>',$year,'</b>'));
     $arch_html ~= '<ul>';
     for %archive{$year}.keys.sort({ $^a <= $^b }) -> $month {
       if %archive{$year}{$month} {
