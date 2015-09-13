@@ -16,8 +16,7 @@
     <!-- custom mambo -->
     <link href="[% base_uri %]assets/style.css" rel="stylesheet"/>
     <link rel="alternate" type="application/rss+xml" 
-            title="RSS Feed for Perl.pt" 
-          href="/rss.xml" />
+            title="RSS Feed for Perl.pt" href="/rss.xml" />
   </head>
   <body>
     <script>hljs.initHighlightingOnLoad();</script>

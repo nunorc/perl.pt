@@ -11,6 +11,8 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <!-- custom mambo -->
     <link href="[% base_uri %]assets/style.css" rel="stylesheet">
+    <link rel="alternate" type="application/rss+xml" 
+            title="RSS Feed for Perl.pt" href="/rss.xml" />    
   </head>
   <body>
     <div class="container">
