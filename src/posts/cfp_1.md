@@ -13,7 +13,7 @@ sócios da APPP, mas de todos aqueles que curtem o Perl. Escrevam pequenos
 textos, falem dos vossos projectos, dos módulos que amam!
 
 Se vos parece que é um esforço grande para uma comunidade pequena, 
-lembrem-se que os nossos irmãos do Brasil também lêm esta língua. E são
+lembrem-se que os nossos irmãos do Brasil também leem esta língua. E são
 muitos. Se isso não vos chega, fiquem a saber que os *nuestros hermanos*,
 embora não gostem de o reconhecer, conseguem perceber perfeitamente a
 língua portuguesa escrita.
