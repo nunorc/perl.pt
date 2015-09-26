@@ -45,7 +45,7 @@ Ora vejamos uma estrutura mais complexa:
     
 Temos como resultado, para o `Data::Dumper`:
 
-$VAR1 = {
+    $VAR1 = {
           'foo' => [
                      1,
                      2,
