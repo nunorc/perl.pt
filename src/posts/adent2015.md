@@ -1,5 +1,5 @@
 
-# Perl 5 - Post-derreferencing
+# Perl 5 - Advento Perliano
 
  2015-12-02, por Alberto Simões <ambs@cpan.org>
 
